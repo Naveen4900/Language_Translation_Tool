@@ -1,0 +1,17 @@
+beautifulsoup4==4.14.3
+certifi==2026.5.20
+charset-normalizer==3.4.7
+click==8.1.8
+customtkinter==5.2.2
+darkdetect==0.8.0
+deep-translator==1.11.4
+gTTS==2.5.4
+idna==3.18
+langdetect==1.0.9
+packaging==26.2
+pygame==2.6.1
+requests==2.34.2
+six==1.17.0
+soupsieve==2.8.4
+typing_extensions==4.15.0
+urllib3==2.7.0
